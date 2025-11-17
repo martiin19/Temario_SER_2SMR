@@ -1,0 +1,8 @@
+Reduce todo lo que puedas las siguientes direcciones IPv6:
+
+a)2001:0db8:3c4d:0015:0000:0005:2129:303f -> Original
+2001:db8:3c4d:15::5:2129:303f -> Abreviación
+b)2001:0db8:3c4d:0015:0000:000a:0309:1030 -> Original
+2001:db8:3c4d:15::a:309:1030  -> Abreviación
+c)2001:0db8:3c4d:0015:0000:0300:0009:0030 -> Original
+2001:db8:3c4d:15::300:9:30    -> Abreviación
